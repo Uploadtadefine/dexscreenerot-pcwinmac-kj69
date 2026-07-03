@@ -1,4 +1,4 @@
-# 
+# 终极 dexscreener sniper bot 工具 Mac OS版 | 极速 dexscreener sniper bot 工具 PC Windows版。集成 保证金管理 和 多链支持，跨平台性能最大化。
 
 
 
